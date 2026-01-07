@@ -97,3 +97,5 @@ Independent Research Project
 ## Disclaimer
 This project is for **educational and research purposes only**.  
 It does not constitute investment advice or a recommendation to buy or sell any asset.
+The repository contains two notebook versions: a baseline analysis using data through 30 November 2025 and an updated version through 07 January 2026, allowing for explicit robustness and hindsight-bias checks.
+
